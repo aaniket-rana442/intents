@@ -1,6 +1,6 @@
 # intents
 
-Design and implement an Android application that performs the following tasks:
+Design and implement an Android application that performs the following tasks:<br>
 •	Create two screens and transfer user data (Username and User Type) from the first screen to the second screen using Explicit Intent.
 •	On the second screen, provide buttons to perform the following actions using Implicit Intents:
 o	Open Play Store
